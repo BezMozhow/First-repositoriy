@@ -1,0 +1,17 @@
+current directory: /home/serhij/gg/vendor/cache/gems/racc-1.6.0/ext/racc/cparse
+/home/serhij/.rbenv/versions/2.7.5/bin/ruby -I /home/serhij/.rbenv/versions/2.7.5/lib/ruby/site_ruby/2.7.0 -r ./siteconf20220217-37538-1x0f17k.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/serhij/gg/vendor/cache/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /home/serhij/gg/vendor/cache/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/serhij/gg/vendor/cache/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20220217-37538-1kmtv33/racc
